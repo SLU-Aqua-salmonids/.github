@@ -1,4 +1,4 @@
-![](pics/slu_logo_webb.png){width=100 height=100}
+<img src="pics/slu_logo_webb.png", alt="SLU logotype", width=100, height=100>
 
 ## Unit Diadromous Species; Department of Aquatic Resources; Swedish university of agrucultural sciences
 
